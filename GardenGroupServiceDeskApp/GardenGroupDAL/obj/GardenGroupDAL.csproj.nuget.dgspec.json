@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupDAL\\GardenGroupDAL.csproj": {}
+    "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupDAL\\GardenGroupDAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupDAL\\GardenGroupDAL.csproj": {
+    "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupDAL\\GardenGroupDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupDAL\\GardenGroupDAL.csproj",
+        "projectUniqueName": "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupDAL\\GardenGroupDAL.csproj",
         "projectName": "GardenGroupDAL",
-        "projectPath": "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupDAL\\GardenGroupDAL.csproj",
-        "packagesPath": "C:\\Users\\Inholland account\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupDAL\\obj\\",
+        "projectPath": "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupDAL\\GardenGroupDAL.csproj",
+        "packagesPath": "C:\\Users\\Luukb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Inholland account\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luukb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupModel\\GardenGroupModel.csproj": {
-                "projectPath": "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupModel\\GardenGroupModel.csproj"
+              "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupModel\\GardenGroupModel.csproj": {
+                "projectPath": "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupModel\\GardenGroupModel.csproj"
               }
             }
           }
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,21 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupModel\\GardenGroupModel.csproj": {
+    "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupModel\\GardenGroupModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupModel\\GardenGroupModel.csproj",
+        "projectUniqueName": "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupModel\\GardenGroupModel.csproj",
         "projectName": "GardenGroupModel",
-        "projectPath": "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupModel\\GardenGroupModel.csproj",
-        "packagesPath": "C:\\Users\\Inholland account\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Inholland account\\Documents\\School\\NoSQL\\assignments\\GardenGroupServiceDeskApp\\GardenGroupModel\\obj\\",
+        "projectPath": "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupModel\\GardenGroupModel.csproj",
+        "packagesPath": "C:\\Users\\Luukb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luukb\\Source\\Repos\\NoSQL_Project_Groep1\\GardenGroupServiceDeskApp\\GardenGroupModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Inholland account\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luukb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,7 +104,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -112,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

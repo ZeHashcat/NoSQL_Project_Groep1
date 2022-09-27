@@ -1,12 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\GardenGroupServiceDeskApp",
-    "\\GardenGroupServiceDeskApp\\GardenGroupDAL",
-    "\\GardenGroupServiceDeskApp\\GardenGroupLogic",
-    "\\GardenGroupServiceDeskApp\\GardenGroupModel",
-    "\\GardenGroupServiceDeskApp\\GardenGroupServiceDeskApp"
+    ""
   ],
-  "SelectedNode": "\\GardenGroupServiceDeskApp\\GardenGroupUI",
   "PreviewInSolutionExplorer": false
 }
